@@ -1,0 +1,30 @@
+img {
+  width: 480px;
+  border-style: groove;
+  border-width: 15px;
+  border-left-color: beige;
+  border-top-color: brown;
+  border-right-color: purple;
+}
+
+a {
+  color: #50bfb0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 36pt;
+  text-decoration: overline;
+}
+
+h5 {
+  font-size: 24pt;
+  text-shadow: 5px 2px 2px #000;
+}
+
+p {
+  text-align: justify;
+}
+ol {
+  text-align: center;
+}
