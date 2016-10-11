@@ -1,0 +1,13 @@
+h1 {
+  color: red;
+}
+p {
+  text-align: center;
+  font-style: serif;
+  font-weight: bold;
+}
+h3 {
+  font-family: monospace;
+  font-size: 30px;
+  line-height: 40px;
+}
